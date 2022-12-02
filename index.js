@@ -1,5 +1,5 @@
 const icons = {
-    котик: `<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+    'котик': `<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
     viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
 <style type="text/css">
    .st0{fill:none;stroke:#007BFC;stroke-width:10;}
@@ -22,7 +22,7 @@ const icons = {
 <path class="st0" d="M150,179.5v15c0,5,3.6,15,15,15s15-10,15-15v-5"/>
 </svg>
 `,
-    кролик: `<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+    'кролик': `<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
     viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
 <style type="text/css">
    .st0{fill:none;stroke:#007BFC;stroke-width:12.5871;}
@@ -38,7 +38,7 @@ const icons = {
    <path class="st1" d="M151.2,211.4c0-4.4,3.6-8,8-8s8,3.6,8,8c0,4.4-3.6,8-8,8S151.2,215.8,151.2,211.4z"/>
 </g>
 </svg>`,
-    бельчонок: `<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+    'бельчонок': `<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
     viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
 <style type="text/css">
    .st0{fill:none;stroke:#007BFC;stroke-width:11.2471;}
@@ -50,7 +50,7 @@ const icons = {
        c-15,0-45,9-45,45c0,7.5,4.5,22.5,22.5,22.5"/>
 </g>
 </svg>`,
-    песик: `<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+    'песик': `<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
     viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
 <style type="text/css">
    .st0{fill:#FFFFFF;}
@@ -144,7 +144,7 @@ const icons = {
 <path class="st1" d="M75,172.5c-19.3,0-30-15-30-30c0-36,40-65,65-85h80c25,20,65,49,65,85c0,15-10.7,30-30,30"/>
 </svg>`,
 
-    медведь: `<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+    'медведь': `<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
 <style type="text/css">
 .st0{fill:#FFFFFF;}
@@ -238,7 +238,7 @@ l15,20L-490,172z M-509,160h30v-10h-30V160z M-483,152l-15,20l8,6l15-20L-483,152z"
 </svg>
 `,
 
-    снегирь: `<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+    'снегирь': `<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
     viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
 <style type="text/css">
    .st0{fill:none;stroke:#007BFC;stroke-width:11.9404;}
@@ -251,7 +251,7 @@ l15,20L-490,172z M-509,160h30v-10h-30V160z M-483,152l-15,20l8,6l15-20L-483,152z"
    <path class="st0" d="M147.1,221.5v47.8"/>
 </g>
 </svg>`,
-    волк: `<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+    'волк': `<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
     viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
 <style type="text/css">
    .st0{fill:none;stroke:#007BFC;stroke-width:10;}
@@ -344,7 +344,7 @@ l15,20L-490,172z M-509,160h30v-10h-30V160z M-483,152l-15,20l8,6l15-20L-483,152z"
 </svg>
 `,
 
-    ежик: `<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+    'ежик': `<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
     viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
 <style type="text/css">
    .st0{fill:none;stroke:#007BFC;stroke-width:10;}
@@ -436,7 +436,7 @@ l15,20L-490,172z M-509,160h30v-10h-30V160z M-483,152l-15,20l8,6l15-20L-483,152z"
 </svg>
 `,
 
-    бобер: `<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+    'бобер': `<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
     viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
 <style type="text/css">
    .st0{fill:none;stroke:#007BFC;stroke-width:10;}
@@ -526,7 +526,7 @@ l15,20L-490,172z M-509,160h30v-10h-30V160z M-483,152l-15,20l8,6l15-20L-483,152z"
 </svg>
 `,
 
-    олень: `<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+    'олень': `<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
     viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
 <style type="text/css">
    .st0{fill:none;stroke:#007BFC;stroke-width:10;}
